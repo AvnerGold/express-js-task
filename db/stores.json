@@ -1,0 +1,180 @@
+[
+    {
+        "id":1,
+        "storeName":"adidas",
+        "city":"ashdod",
+        "items":[
+            {
+                "itemId":1,
+                "itemName":"Shoe-1",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            },
+
+            {
+                "itemId":2,
+                "itemName":"Shoe-2",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            },
+
+            {
+                "itemId":3,
+                "itemName":"Shoe-3",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            },
+
+            {
+                "itemId":7,
+                "itemName":"Shoe-4",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            }
+        ]
+
+        
+
+    },
+
+    {
+        "id":2,
+        "storeName":"adidas",
+        "city":"ashdod",
+        "items":[
+            {
+                "itemId":5,
+                "itemName":"Shoe-1",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            },
+
+            {
+                "itemId":6,
+                "itemName":"Shoe-2",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            },
+
+            {
+                "itemId":7,
+                "itemName":"Shoe-3",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            },
+
+            {
+                "itemId":8,
+                "itemName":"Shoe-4",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            }
+        ]
+
+    },
+    {
+        "id":3,
+        "storeName":"adidas",
+        "city":"ashdod",
+        "items":[
+            {
+                "itemId":9,
+                "itemName":"Shoe-1",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            },
+
+            {
+                "itemId":10,
+                "itemName":"Shoe-2",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            },
+
+            {
+                "itemId":11,
+                "itemName":"Shoe-3",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            },
+
+            {
+                "itemId":12,
+                "itemName":"Shoe-4",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            }
+        ]
+
+    },
+    {
+        "id":4,
+        "storeName":"adidas",
+        "city":"ashdod",
+        "items":[
+            {
+                "itemId":13,
+                "itemName":"Shoe-1",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            },
+
+            {
+                "itemId":14,
+                "itemName":"Shoe-2",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            },
+
+            {
+                "itemId":15,
+                "itemName":"Shoe-3",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            },
+
+            {
+                "itemId":16,
+                "itemName":"Shoe-4",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            }
+        ]
+
+    },
+    {
+        "id":5,
+        "storeName":"adidas",
+        "city":"ashdod",
+        "items":[
+            {
+                "itemId":17,
+                "itemName":"Shoe-1",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            },
+
+            {
+                "itemId":18,
+                "itemName":"Shoe-2",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            },
+
+            {
+                "itemId":19,
+                "itemName":"Shoe-3",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            },
+
+            {
+                "itemId":19,
+                "itemName":"Shoe-4",
+                "itemPrice":70,
+                "itemPriceDiscount":25
+            }
+        ]
+
+    }
+]
